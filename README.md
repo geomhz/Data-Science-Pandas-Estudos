@@ -1,1 +1,1 @@
-# Data-Science-Pandas-Estudos
+Estudo destinado á DATA SCIENCE com a biblioteca PANDAS
